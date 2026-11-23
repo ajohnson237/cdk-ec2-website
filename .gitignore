@@ -1,0 +1,8 @@
+*.swp
+__pycache__/
+*.pyc
+.venv/
+venv/
+cdk.out/
+cdk.context.json
+.DS_Store
